@@ -1,4 +1,4 @@
-# Sticky-Ghost
+# Sticky Ghost
 
 Sticky Ghost is a simple material flat sticky note that let users save and pin notes
 
