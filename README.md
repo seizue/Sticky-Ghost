@@ -12,7 +12,9 @@ Sticky Ghost is a simple material flat sticky note that let users save and pin n
 * Windows Operating System (Window 7 and 10)
 * Minimum Target Framework : DotNet Framework 4.5.2 
 
-Incase your system running the lower version of DotNet Framework 4.5.2. Just visit this site: <a href="https://www.microsoft.com/net/download/framework">Download DotNet Framework </a>
+Incase your system running the lower version of DotNet Framework 4.5.2
+
+Just visit this site: <a href="https://www.microsoft.com/net/download/framework">Download DotNet Framework </a>
 
 Then choose and download the latter version
 
