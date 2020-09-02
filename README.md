@@ -1,6 +1,6 @@
 # Sticky Ghost
 
-Sticky Ghost is a simple material flat sticky note that let users save and pin notes
+Sticky Ghost is a simple material flat sticky note that let its users save and pin notes
 
 ![Sticky_Ghost](https://user-images.githubusercontent.com/25120376/91990193-05eaae00-ed64-11ea-9eca-cc0ea316f433.png)
 
