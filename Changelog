@@ -1,0 +1,69 @@
+##Sticky Ghost Changelog History
+
+Notice: Version from 1.0.0.0 - 1.0.0.6 didn't release due to production issue. 
+        But i will include them here since it covers all the Build History. 
+        
+##v1.0.0.0
+* Initial Release
+
+##v1.0.0.1
+* Added a Menu for list of Options
+* Added icon's in Menu
+* Added a save file dialog located in Menu
+* Added a Help button in Menu
+
+##v1.0.0.2 
+* Added a Autosave checkbox 
+* Added a Option Button in Menu
+* Reduced the width in Sticky Note 
+
+##v1.0.0.3 
+* Fix the Autosave checkbox
+* Added a "Run on Start-up" checkbox located in option
+* Added a "Save File" checkbox located in option
+
+##v1.0.0.4
+* Added a autosave in Previous location. (Last location will be save and it will start in the last save location)
+* Remove the light borders in Sticky Note
+* Fix the Drag control in Navbar
+* Fix some bugs
+
+##v1.0.0.5
+* Reduced the Width in Menu 
+* Reduced the Width in Sticky Note
+* New Icon's in Menu (credits : Icons8)
+* Fix some bugs
+
+##v1.0.0.6
+* Added a Context Menu Strip
+* Added a "Add" button
+* Fix the Run on Start-up checkbox
+
+##v1.0.0.7
+* Added a color option for Upbar
+* Resized the icon's located in Menu
+* Redesign the GUI into a Material Dark
+* Renamed the App into Sticky Ghost
+
+##v1.0.0.8
+* Resized the icon's located from Menu
+* Change the appearance of Unpin and Pin Notification
+* Change the appearance of Settings (for future update)
+* Change the onhover Cursor in "Add" Note (Maximize State)
+* Removed the Round Corners in Sticky Ghost
+* Removed the "Option" located in General Settings
+
+##v1.0.0.9
+* Added a "Font" option locatedin Menu
+* Added a Theme optionand a New Theme "Dream White"
+* Sizable or Resizable form for Sticky Ghost is now available
+* Added a Customize Option
+* Relocated the "Font" and "Upbar Color" option. It is now located in Customize Option
+* Re-styled the Appearance in the Menu
+* New colors in the Notifications. Now we have 2 colors to represents the Notifications
+* Reduced the width in Navbar
+* Fixed the Animation in Menu
+* Fixed the wait cursor in the Notification. Default cursor will be arrow.
+* Fixed the "Visit Board" Button in Changelog
+* Fixed the "Save As" button in order to save the file
+
