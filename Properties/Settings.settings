@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Sticky_Ghost.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="InitialLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="myColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">100, 100, 100</Value>
+    </Setting>
+    <Setting Name="formTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="textName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="autosave_Property" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="savefile_Property" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="currentfont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Segoe UI Semibold, 11.25pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="WindowWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">360</Value>
+    </Setting>
+    <Setting Name="WindowHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">410</Value>
+    </Setting>
+    <Setting Name="PanelNavbarTheme" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">41, 40, 40</Value>
+    </Setting>
+    <Setting Name="Main" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">37, 37, 36</Value>
+    </Setting>
+    <Setting Name="TextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">37, 37, 36</Value>
+    </Setting>
+    <Setting Name="NavbarLineColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">45, 45, 46</Value>
+    </Setting>
+    <Setting Name="WDBorder1Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">44, 44, 43</Value>
+    </Setting>
+    <Setting Name="WDBorder2Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">44, 44, 43</Value>
+    </Setting>
+    <Setting Name="WDBorder3Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">44, 44, 43</Value>
+    </Setting>
+    <Setting Name="NavbarSideline1Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">44, 44, 43</Value>
+    </Setting>
+    <Setting Name="NavbarSideline2Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">44, 44, 43</Value>
+    </Setting>
+    <Setting Name="BtnMinimize_BC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">41, 40, 40</Value>
+    </Setting>
+    <Setting Name="BtnMinimize_ILC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">41, 40, 40</Value>
+    </Setting>
+    <Setting Name="BtnMinimize_IFC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">59, 59, 59</Value>
+    </Setting>
+    <Setting Name="BtnMinimize_ALC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">24, 100, 38</Value>
+    </Setting>
+    <Setting Name="BtnClose_BC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">41, 40, 40</Value>
+    </Setting>
+    <Setting Name="BtnClose_ILC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">41, 40, 40</Value>
+    </Setting>
+    <Setting Name="BtnClose_IFC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">59, 59, 59</Value>
+    </Setting>
+    <Setting Name="BtnClose_ALC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">111, 31, 49</Value>
+    </Setting>
+    <Setting Name="FontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="PanelMenu" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">40, 40, 40</Value>
+    </Setting>
+    <Setting Name="COPanel" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">40, 40, 40</Value>
+    </Setting>
+    <Setting Name="PanelTheme" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">40, 40, 40</Value>
+    </Setting>
+    <Setting Name="BtnBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">40, 40, 40</Value>
+    </Setting>
+    <Setting Name="panelSepa" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">43, 43, 43</Value>
+    </Setting>
+    <Setting Name="BtnNormalCo" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">40, 40, 40</Value>
+    </Setting>
+    <Setting Name="BtnActiveCo" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">40, 40, 40</Value>
+    </Setting>
+    <Setting Name="BtnOnhoverCo" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">55, 55, 55</Value>
+    </Setting>
+    <Setting Name="BtnTextCo" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightGray</Value>
+    </Setting>
+    <Setting Name="BtnOnhoverTextCo" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
