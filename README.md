@@ -6,7 +6,7 @@ Sticky Ghost is a simple material flat sticky note that let its users save and p
 
 
 ## Download 
-* <a href="https://github.com/seizue/Sticky-Ghost/releases"> Download latest version here </a>
+* <a href="https://github.com/seizue/Sticky-Ghost/releases"> Download latest version here!</a>
 
 ## Requirements
 * Windows Operating System (Window 7 and 10)
@@ -14,7 +14,7 @@ Sticky Ghost is a simple material flat sticky note that let its users save and p
 
 Incase your system running the lower version of DotNet Framework 4.5.2
 
-Just visit: <a href="https://www.microsoft.com/net/download/framework">Download DotNet Framework.</a>
+Just visit: <a href="https://www.microsoft.com/net/download/framework">Download DotNet Framework</a>
 Then choose and download the latter version
 
 ## Features
