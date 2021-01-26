@@ -28,4 +28,4 @@ Then choose and download the latter version
 
 ## Notice
 You need Bunifu UI Framework in order to continue or work this project 
-* <a href="https://bunifuframework.com"> Bunifu UI Framework </a>
+* <a href="https://bunifuframework.com"> Bunifu UI Framework</a>
